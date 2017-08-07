@@ -1,0 +1,11 @@
+{
+  "name": "mongomessenger",
+  "version": "1.0.0",
+  "description": "A program that utilizes socket.io and MongoDB to allow basic chat functionality between multiple users.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Katie",
+  "license": "ISC"
+}
