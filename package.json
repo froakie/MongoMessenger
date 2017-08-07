@@ -7,5 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Katie",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.2.30",
+    "socket.io": "^2.0.3"
+  }
 }
